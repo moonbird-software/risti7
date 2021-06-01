@@ -1,0 +1,8 @@
+:Base risti7.hlp
+:Title Ristiseiska
+1 Pelin tarkoitus=IDH_OBJECTOFGAME>Window
+1 Pelaaminen=IDH_HOWTOPLAY>Window
+1 Asetukset=IDH_SETTINGS>Window
+1 Säännöt
+2 Pelin kulku=IDH_RULES>Window
+2 Taktiikkaa ja vihjeitä=IDH_TACTICS>Window
